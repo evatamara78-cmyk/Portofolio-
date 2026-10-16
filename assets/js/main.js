@@ -1,7 +1,7 @@
 /**
  * ===================================================================
  * PORTOFOLIO KREATIF SISWA XI DKV (DESAIN KOMUNIKASI VISUAL)
- * Author: Muhammad Rafkha Alfarzy (Radit.DKV)
+ * Author: Muhammad Rafkha Alfarzy (Rafkha.DKV)
  * Interactive Engine: Gallery Filtering, Modals, Mockup Studio, Lo-Fi Audio
  * ===================================================================
  */
